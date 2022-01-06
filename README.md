@@ -1,6 +1,8 @@
-# PortfolioProject - This Repository will hold all of the code and queries from the Portfolio Projects I create.
+# PortfolioProject - 
 
-  Covid-19 Data Exploration Project:
+This Repository will hold all of the code and queries from the Portfolio Projects I create.
+
+  **Covid-19 Data Exploration Project:**
   
         1. Extracting the Covid -19 related data pertaining to death and vaccination, ranging from early February 2020 to the end of December 2021 and undertaken basic data                cleaning and querying on MS SQL server management studio to explore insights out of the data.
         

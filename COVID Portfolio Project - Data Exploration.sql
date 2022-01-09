@@ -46,14 +46,6 @@ Group By Location,Population
 order by PercentPopulationInfected desc
 
 
---Showing Countries with Highest Death count per population
-
-select location, MAX(cast(total_deaths as bigint)) as TotalDeathCount from PortfolioProject..CovidDeaths
---where location = 'INDIA'
-where continent IS NOT NULL
-Group By Location
-order by TotalDeathCount desc 
-
 
 --BREAK THINGS DOWN BY CONTINENT
 --Showing the continents with the Highest Death Count per  Population
